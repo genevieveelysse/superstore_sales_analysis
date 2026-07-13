@@ -1,4 +1,4 @@
-# 📊 Retail Sales Performance Analysis (SQL & Tableau)
+# Retail Sales Performance Analysis (SQL & Tableau)
 
 ## Overview
 
