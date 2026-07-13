@@ -8,9 +8,7 @@ This project analyses retail sales performance using PostgreSQL and Tableau Publ
 
 ## Dashboard Preview
 
-> *(Replace the image below with a screenshot of your dashboard after uploading it to the repository.)*
-
-![Retail Sales Dashboard](images/dashboard.png)
+![Retail Sales Dashboard](images/superstore_dashboard.png)
 
 **Interactive Dashboard:**  
 https://public.tableau.com/app/profile/genevieve.elysse/viz/Superstore_Dashboard_17839767731450/Dashboard
